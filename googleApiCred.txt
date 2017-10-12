@@ -1,2 +1,2 @@
-client ID : 589542026836-6vs9uue5l94vkb4nacevpsoo5vrqie0e.apps.googleusercontent.com
-client secret : Hpjl3Zx71vkgBwyq2WNTQx2v
+client ID : <enter your google client id here>
+client secret : <enter client secret here>

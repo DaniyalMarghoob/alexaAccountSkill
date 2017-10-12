@@ -50,7 +50,7 @@ function validCard(ctx) {
 
 
 var usrId = 'testUsr';
-var token = 'ya29.GlwBBAT1WRYK1YxDC_5AxVgakjSFjqYz8TRUVOMDDyYqghNHRRefWK5SjzTdI9CQd_MyvYbtMmaC-yIkI7DIcSc8Z1Z05HLGehcK-t8zLLXxNrN-CTCMxLL5TGgAbg';
+var token = 'replace it with your token';
 
 
 var event = {
