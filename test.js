@@ -1,6 +1,7 @@
 'use strict'
 
 var expect = require('chai').expect,  
+let a='null';
 
 lambdaToTest = require('./index')
 
