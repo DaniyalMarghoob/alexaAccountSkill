@@ -3,6 +3,7 @@
 'use strict';
 
 var winston = require('winston');
+let a='null';
 
 var logger = new (winston.Logger)({
     transports: [
